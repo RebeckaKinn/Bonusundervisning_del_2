@@ -1,6 +1,10 @@
 ﻿namespace Bonusundervisning_del_2
 {
-    internal class App
+    static class App
     {
+        public static void Run()
+        {
+
+        }
     }
 }
